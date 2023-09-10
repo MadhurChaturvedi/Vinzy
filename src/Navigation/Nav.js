@@ -1,6 +1,6 @@
 import React from 'react'
 import {FiHeart} from 'react-icons/fi';
-import {AiOutlineShoppingCart ,AiOutLineUserAdd} from 'react-icons/ai';
+import {AiOutlineShoppingCart,AiOutlineUser } from 'react-icons/ai';
 import "./Nav.css"
 export default function 
 ({ handleInputChange, query }) {
@@ -20,7 +20,7 @@ export default function
         <AiOutlineShoppingCart  className='nav-icons' />
      </a>
      <a href='#'>
-        <FiHeart className='nav-icons' />
+        <AiOutlineUser className='nav-icons' />
      </a>
    </div>
  </nav>

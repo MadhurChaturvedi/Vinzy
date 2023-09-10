@@ -29,6 +29,10 @@ input{
     color: black;
 }
 
+
+.nav-icons:hover{
+    color: rgb(0, 107, 169);
+}
 @media (max-width:863px) {
     input{
         padding: 12px 20px;
