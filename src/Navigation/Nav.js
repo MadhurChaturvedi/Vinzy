@@ -5,6 +5,7 @@ import "./Nav.css"
 export default function 
 ({ handleInputChange, query }) {
  return <nav>
+   <h2 style={{paddingLeft:'100px', fontSize:"22px", fontFamily:'monospace'}}><span style={{color:'purple'}}>V</span><span style={{color:'orange'}}>I</span><span style={{color:'green'}}>N</span><span style={{color:'blue'}}>Z</span><span style={{color:'red'}}>Y</span></h2>
     <div className='nav-container'>
         <input 
         type='text'
