@@ -3,6 +3,7 @@ import Navigation from "./Navigation/Nav";
 import Products from "./Products/Products";
 import Recommended from "./Recommended/Recommended";
 import SideBar from "./SideBar/SideBar";
+import "./App.css"
 // import ClipLoader from "react-spinners/ClipLoader";
 // import RotateLoader from "react-spinners/RotateLoader"
 
@@ -88,13 +89,13 @@ function App() {
 
   return (
 
-    <div>
+    <div className="main">
     {
     loading ? 
     <div style={{display:'flex',flexDirection:'column',justifyContent:'center',alignItems:'center', width:'100%',height:'100vh', overFlow: "hidden" }}> <Loder /> <h1><span style={{color:'#3498db'}}>Loding</span><span style={{color:'#8e44ad'}}> pls</span><span style={{color:'#16a085'}} > Wait</span></h1></div> :
       
     <header>
-      <SideBar  handleChange={handleChange}/>
+      <SideBar className="sidebar" handleChange={handleChange}/>
       <Navigation query={query} handleInputChange={handleInputChange} />
       <Recommended handleChange={handleClick} />
       <Products result={result} />
