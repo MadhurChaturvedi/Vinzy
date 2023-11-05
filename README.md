@@ -12,10 +12,12 @@
 </p>
 <h3 align="center">Technology</h3>
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:512/1*W3ZHer9j6Cxzh78m0jLLdw.png" alt="angular" width="40" height="40"/> 
+    <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png" alt="angular" width="40" height="40"/> 
+    <img src="https://miro.medium.com/v2/resize:fit:512/1*W3ZHer9j6Cxzh78m0jLLdw.png" alt="angular" width="40" height="40"/> 
     <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="angular" width="40" height="40"/> 
-      <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="angular" width="40" height="40"/> 
-        <img src="https://blog.leonhassan.co.uk/content/images/2019/01/react-1.svg" width="40" height="40"/> 
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="angular" width="40" height="40"/> 
+   <img src="https://blog.leonhassan.co.uk/content/images/2019/01/react-1.svg" width="40" height="40"/> 
+   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" height="40"/> 
 </p>     
 
 ## Run Locally
