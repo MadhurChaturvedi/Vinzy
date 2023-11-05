@@ -1,6 +1,5 @@
 # Getting Started with Create React App
 
-![bandicam 2023-09-11 14-35-22-635](https://github.com/madhurcod/Vinzy/assets/93113162/5e27aa6f-f1c3-4383-918f-9a408ec5d2f4)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
