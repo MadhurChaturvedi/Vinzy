@@ -25,7 +25,7 @@
 Clone the project
 
 ```bash
-  https://github.com/madhurcod/Vinzy.git
+ git clone  https://github.com/madhurcod/Vinzy.git
 ```
 
 Go to the project directory
