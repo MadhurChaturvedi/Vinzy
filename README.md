@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-![bandicam 2023-09-11 14-34-19-083](https://github.com/madhurcod/Vinzy/assets/93113162/86197bc5-1271-44c7-9ba3-3c5549164869)
+
+![Uploading bandicam 2023-09-11 14-35-22-635.jpg…]()
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
