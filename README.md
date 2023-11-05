@@ -16,7 +16,8 @@ https://github.com/madhurcod/Vinzy/assets/93113162/3e73e437-7ef6-445f-89d2-9210a
   In a React.js and CSS project, I successfully cloned an Amazon product page, enhancing it with the ability to filter and search for items, providing an interactive and functional online shopping experience.
 </p>
 <h3 align="center">Technology</h3>
-<p align="center">
+<p align="center" style={{display: flex;
+    justify-content: space-around;}}>
     <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png" alt="angular" width="40" height="40"/> 
     <img src="https://miro.medium.com/v2/resize:fit:512/1*W3ZHer9j6Cxzh78m0jLLdw.png" alt="angular" width="40" height="40"/> 
     <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="angular" width="40" height="40"/> 
