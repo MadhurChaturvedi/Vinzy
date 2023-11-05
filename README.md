@@ -5,8 +5,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
-In the project directory, you can run:
+<div style={{display:flex}}>
+![1_bc9pmTiyKR0WNPka2w3e0Q](https://github.com/madhurcod/Vinzy/assets/93113162/e3bcaa44-be77-4347-81c6-afab86890fd7)
+![Git-Icon-1788C](https://github.com/madhurcod/Vinzy/assets/93113162/fb6ece7c-7491-4112-ae36-b48aa638d352)
+![logo](https://github.com/madhurcod/Vinzy/assets/93113162/9e43d1d0-d097-4f00-afc9-788680365019)
+![png-transparent-react-javascript-library-front-and-back-ends-others-miscellaneous-text-logo](https://github.com/madhurcod/Vinzy/assets/93113162/aaab9500-bb9a-416b-ac8f-83124c7c3d61)
+</div>
 
 ### `npm start`
 
