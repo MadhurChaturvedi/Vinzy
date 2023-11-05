@@ -23,25 +23,25 @@
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  https://github.com/madhurcod/Vinzy.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Vinzy
 ```
 
 Install dependencies
 
 ```bash
-  npm install
+  npm install 
 ```
 
 Start the server
 
 ```bash
-  npm run start
+  npm  start
 ```
 
 
