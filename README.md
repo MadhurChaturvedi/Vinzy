@@ -25,7 +25,7 @@ https://github.com/madhurcod/Vinzy/assets/93113162/3e73e437-7ef6-445f-89d2-9210a
    <img src="https://blog.leonhassan.co.uk/content/images/2019/01/react-1.svg" width="40" height="40"/> 
    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" height="40"/> 
 </p>     
-
+<div align="center">
 ## Run Locally
 
 Clone the project
@@ -36,7 +36,7 @@ Clone the project
 
 Go to the project directory
 
-```bash
+ ```bash
   cd Vinzy
 ```
 
@@ -51,7 +51,7 @@ Start the server
 ```bash
   npm  start
 ```
-
+</div>
 
 
 
