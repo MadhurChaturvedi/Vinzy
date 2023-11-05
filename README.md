@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-![Uploading bandicam 2023-09-11 14-35-22-635.jpg…]()
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
