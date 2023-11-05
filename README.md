@@ -4,8 +4,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
+## Available Scripts
+<span style="color: green"> Some green text </span>
 
 ### `npm start`
 
