@@ -51,6 +51,8 @@ Start the server
 ```bash
   npm  start
 ```
+
+<img src="https://five.co/wp-content/uploads/2023/08/blog-mern-stack-1024x451.png" alt="image">
 </div>
 
 
