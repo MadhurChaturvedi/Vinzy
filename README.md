@@ -3,7 +3,6 @@
 ![Screenshot (49)](https://github.com/madhurcod/Vinzy/assets/93113162/0b375a91-b2e9-4339-ae01-453a50400b87)
 
 
-https://github.com/madhurcod/Vinzy/assets/93113162/3e73e437-7ef6-445f-89d2-9210a5ee1102
 
 
 
